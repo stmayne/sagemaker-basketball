@@ -66,12 +66,12 @@ In the top right corner, choose the “new” option and select terminal
 
 **First cd into the main directory**
 
-* Type “cd SageMaker” and hit enter
+* Type `cd SageMaker` and hit enter
 
 
 **Then clone the public repository into the current locations**
 
-* Type “git clone https://github.com/stmayne/sagemaker-basketball.git”
+* Type `git clone https://github.com/stmayne/sagemaker-basketball.git`
 
 
 ## Now we want to open our python code and follow the instructions in the Jupyter notebook
