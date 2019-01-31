@@ -1,7 +1,9 @@
 # sagemaker-basketball
 Learning how to use machine learning by using sagemaker to predict the outcome of basketball games.
 
-# Welcome to the “NBA on SageMaker” workshop. This workshop contains everything needed to train and deploy your own machine learning endpoint for predicting the outcomes of NBA basketball games. The steps here will take you to the point of deploying a Jupyter notebook which contains the python code needed to complete the workshop. Once you finish the instructions here, you will want to follow the instructions listed in the Jupyter notebook.
+# Welcome to the “NBA on SageMaker” workshop. 
+
+This workshop contains everything needed to train and deploy your own machine learning endpoint for predicting the outcomes of NBA basketball games. The steps here will take you to the point of deploying a Jupyter notebook which contains the python code needed to complete the workshop. Once you finish the instructions here, you will want to follow the instructions listed in the Jupyter notebook.
 
 
 ## First we will want to create an S3 bucket where we can store information like our training data, as well as several artifacts created during the training and deployment stages.
