@@ -1,4 +1,4 @@
-point_diff (N),team1_elo (N),team2_elo (N),team1_last10 (N),team2_last10 (N)
+point_diff (N),away_team_elo (N),home_team_elo (N),away_team_last10 (N),home_team_last10 (N)
 12,1493,1482,0.8,0.3
 -19,1434,1464,0.5,0.8
 19,1397,1319,0.3,0.3
