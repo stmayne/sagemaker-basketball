@@ -19,7 +19,7 @@ This workshop contains everything needed to train and deploy your own machine le
 
 * Create bucket basketball-predictor-YOURNAME
 
-* Remember this bucket name, you’ll need 
+* Remember this bucket name, you’ll need it later
 
 
 **Now that we have a place to store our SageMaker items, we need a development environment to begin training and deploying our machine learning model. Part of SageMaker is hosted Jupyter notebooks that allow us to more quickly get building. These notebooks come with certain things pre-installed that will make it easier to get started.**
@@ -42,8 +42,9 @@ This workshop contains everything needed to train and deploy your own machine le
 
 **Now we will need to detail the IAM permissions that our SageMaker instance will have. We will need to give it access to our S3 bucket that we created earlier.**
 
+* Under the section labled: Permissions and encryption, look for IAM Role
 
-* Choose to create a new IAM role
+* Click on the dropdown box and choose to create a new IAM role
 
 * Enter in the name of your S3 bucket to give access
 
